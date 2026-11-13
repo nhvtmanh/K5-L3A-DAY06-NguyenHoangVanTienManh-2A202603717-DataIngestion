@@ -1,0 +1,27 @@
+{
+  "started_at_utc": "2026-11-13T14:12:09.464378+00:00",
+  "split": "dev",
+  "python": "3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)]",
+  "device": "cpu",
+  "batch_size": 8,
+  "packages": {
+    "pypdf": "6.21.4",
+    "psycopg": "3.3.8",
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "Pillow": "13.0.0",
+    "transformers": "5.22.2",
+    "sentence-transformers": "6.3.0"
+  },
+  "model_config": {
+    "name": "google/embeddinggemma-2",
+    "dimensions": 768,
+    "document_prompt": "Document",
+    "query_prompt": "SearchQuery",
+    "normalize_embeddings": true,
+    "dtype": "float32",
+    "revision": "f9972ac22e696a105c482202646979e33e4b5a1e"
+  },
+  "api_cost_usd": 0,
+  "cost_scope": "Local inference; excludes hardware/electricity."
+}

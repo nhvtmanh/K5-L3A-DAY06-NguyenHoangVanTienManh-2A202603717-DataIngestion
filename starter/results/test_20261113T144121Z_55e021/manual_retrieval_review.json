@@ -1,0 +1,2660 @@
+[
+  {
+    "question_id": "q16",
+    "strategy": "A",
+    "split": "test",
+    "question": "Trong mục 1.5, Fed có thể thắt chặt cung tiền bằng những công cụ nào và chính sách này tác động thế nào đến tăng trưởng và thất nghiệp?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 46,
+        "evidence_quote": "With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.5"
+    },
+    "hits": [
+      {
+        "chunk_id": "3ed22de26f49f2f7d076c41d616f882668bddc77d93d073daecb5c8e4588a236",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "ts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment. Thus, contractionary policy reduces\nspending and, ultimately, lowers inflation. With expansionary policy, the Fed increases, or loosens, growth in\nthe money supply. An expansionary policy stimulates the economy. Interest rates decline, so business and\nconsumer spending go up. Unemployment rates drop as businesses expand. But increasing the mo",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2750,
+          "start_char": 2250,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.2433760166168213,
+        "score": 0.7566239833831787,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "9dc664e7a067993a5e777db92923722bf2c0e36cdb8fcd76177c4ce7300503d0",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "ple effect: the\nregional Federal Reserve Banks increase the discount rate they charge commercial banks for short-term loans,\nmany commercial banks raise the interest rates they charge their customers, and credit card companies\nincrease the annual percentage rate (APR) they charge consumers on their credit card balances.24\nAs you can see, the Fed can use monetary policy to contract or expand the economy. With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling gover",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2300,
+          "start_char": 1800,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.26405152510981933,
+        "score": 0.7359484748901807,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "cffabde15b3c1033e734f93a2a2c3375c104fd613afe88105779d8eba80a0a13",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 45,
+        "text": "raising\ntaxes to curb inflation. Still, the government must try to guide the economy to a sound balance of growth,\nemployment, and price stability. The two main tools it uses are monetary policy and fiscal policy.\nCONCEPT CHECK\n1. What is a business cycle? How do businesses adapt to periods of contraction and expansion?\n2. Why is full employment usually defined as a target percentage below 100 percent?\n3. What is the difference between demand-pull and cost-push inflation?\nChapter 1 Understandin",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 3025,
+          "start_char": 2526,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 3059,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 45
+        },
+        "distance": 0.27724719047546387,
+        "score": 0.7227528095245361,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q16",
+    "strategy": "B",
+    "split": "test",
+    "question": "Trong mục 1.5, Fed có thể thắt chặt cung tiền bằng những công cụ nào và chính sách này tác động thế nào đến tăng trưởng và thất nghiệp?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 46,
+        "evidence_quote": "With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.5"
+    },
+    "hits": [
+      {
+        "chunk_id": "cca4f86a734ce2c6b377e0f3f7ec905588763dc857ebeb10527fe5b867497f47",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "As you can see, the Fed can use monetary policy to contract or expand the economy. With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment. Thus, contractionary policy reduces\nspending and, ultimately, lowers inflation. With expansionary policy, the Fed increases, or loosens, growth in\nthe money supply. An expansionary policy stimulates the economy.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2617,
+          "start_char": 2124,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 493,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.2337832907567433,
+        "score": 0.7662167092432567,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "cd7f0656e062ae74fe4251c7cdedcb59212741966a2a19196c64a18aca8fc1fd",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 45,
+        "text": "1.5 Achieving Macroeconomic Goals\n5. How does the government use monetary policy and fiscal policy to achieve its macroeconomic goals?",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2209,
+          "start_char": 2075,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 134,
+          "page_normalized_char_count": 3059,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 45
+        },
+        "distance": 0.25870585441589355,
+        "score": 0.7412941455841064,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "de0d68d7c0ac6557c8e53bb78d433722654d9c14708f7599203abca09c21c675",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "economy continues to show a slow but steady expansion, the Fed subsequently increased the federal\nfunds rate to a range of 0.75 to 1 percent in March 2017.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1765,
+          "start_char": 1610,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 155,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.26138919591903687,
+        "score": 0.7386108040809631,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q16",
+    "strategy": "C",
+    "split": "test",
+    "question": "Trong mục 1.5, Fed có thể thắt chặt cung tiền bằng những công cụ nào và chính sách này tác động thế nào đến tăng trưởng và thất nghiệp?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 46,
+        "evidence_quote": "With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.5"
+    },
+    "hits": [
+      {
+        "chunk_id": "cca4f86a734ce2c6b377e0f3f7ec905588763dc857ebeb10527fe5b867497f47",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "As you can see, the Fed can use monetary policy to contract or expand the economy. With contractionary\npolicy, the Fed restricts, or tightens, the money supply by selling government securities or raising interest\nrates. The result is slower economic growth and higher unemployment. Thus, contractionary policy reduces\nspending and, ultimately, lowers inflation. With expansionary policy, the Fed increases, or loosens, growth in\nthe money supply. An expansionary policy stimulates the economy.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2617,
+          "start_char": 2124,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 493,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.2337832907567433,
+        "score": 0.7662167092432567,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "cd7f0656e062ae74fe4251c7cdedcb59212741966a2a19196c64a18aca8fc1fd",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 45,
+        "text": "1.5 Achieving Macroeconomic Goals\n5. How does the government use monetary policy and fiscal policy to achieve its macroeconomic goals?",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2209,
+          "start_char": 2075,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 134,
+          "page_normalized_char_count": 3059,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 45
+        },
+        "distance": 0.25870585441589355,
+        "score": 0.7412941455841064,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "de0d68d7c0ac6557c8e53bb78d433722654d9c14708f7599203abca09c21c675",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 46,
+        "text": "economy continues to show a slow but steady expansion, the Fed subsequently increased the federal\nfunds rate to a range of 0.75 to 1 percent in March 2017.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1765,
+          "start_char": 1610,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 155,
+          "page_normalized_char_count": 2986,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 46
+        },
+        "distance": 0.26138919591903687,
+        "score": 0.7386108040809631,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q17",
+    "strategy": "A",
+    "split": "test",
+    "question": "Theo phần chính sách tài khóa, chính phủ có thể điều chỉnh thuế và chi tiêu theo những hướng nào để kích thích nền kinh tế?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 47,
+        "evidence_quote": "The other economic tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "8e0e6b8734997afb59b1a3e218e83d3e104ecb8f8d16ef24aec22bfbddf98be8",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 47,
+        "text": "tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy. Look again at Exhibit\n1.6. The more government buys from businesses, the greater the business revenues and output. Likewise, if\nconsumers or businesses have to pay less in taxes, they will have more income to spend for goods and\nservices. Tax policies in the United States therefore affect business decisions. High corporate taxe",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 950,
+          "start_char": 451,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 1994,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 47
+        },
+        "distance": 0.24319684505462646,
+        "score": 0.7568031549453735,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "070b69b94fa08dfdff677031d8383d1154a643b90334bfee284e1ac6a5265d7b",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "est\nrates are other areas that change according to economic activity. Through the policies it sets, such as taxes\nand interest rate levels, a government attempts to stimulate or curtail the level of economic activity. In\naddition, the forces of supply and demand determine how prices and quantities of goods and services behave\nin a free market.\n18 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 1832,
+          "start_char": 1350,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 482,
+          "page_normalized_char_count": 1832,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 30
+        },
+        "distance": 0.2884758710861206,
+        "score": 0.7115241289138794,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "021dc9777dd4176658992614b3d8d8f194fb3bf4ebefeb381b800bdedea0c5b2",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "others. If government raises taxes, households have less to spend on goods\nand services. Lower consumer spending causes businesses to reduce production, and economic activity\ndeclines; unemployment may rise. In contrast, cutting taxes can stimulate economic activity. Keep the circular\nflow in mind as we continue our study of economics. The way economic sectors interact will become more\nevident as we explore macroeconomics and microeconomics.\nChapter 1 Understanding Economic Systems and Business",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 2750,
+          "start_char": 2251,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.3012807606123922,
+        "score": 0.6987192393876078,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q17",
+    "strategy": "B",
+    "split": "test",
+    "question": "Theo phần chính sách tài khóa, chính phủ có thể điều chỉnh thuế và chi tiêu theo những hướng nào để kích thích nền kinh tế?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 47,
+        "evidence_quote": "The other economic tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "cd89e9ad819ee58fc8eeb2e52d4703a7f0c7882f508830c915c0c8b77a609aa3",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 47,
+        "text": "(Credit: Federalreserve/ flickr/ US Government Works)\nFiscal Policy\nThe other economic tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy. Look again at Exhibit\n1.6. The more government buys from businesses, the greater the business revenues and output. Likewise, if\nconsumers or businesses have to pay less in taxes, they will have more income to spend for goods and\nservices.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 859,
+          "start_char": 364,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 495,
+          "page_normalized_char_count": 1994,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 47
+        },
+        "distance": 0.2528901696205139,
+        "score": 0.7471098303794861,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "152f8d7faa2d900f8a32445bba88c8ffdb01e82190b4600da052b986ad944268",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "Through the policies it sets, such as taxes\nand interest rate levels, a government attempts to stimulate or curtail the level of economic activity. In\naddition, the forces of supply and demand determine how prices and quantities of goods and services behave\nin a free market.\n18 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 1832,
+          "start_char": 1420,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 412,
+          "page_normalized_char_count": 1832,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 30
+        },
+        "distance": 0.27817870844475545,
+        "score": 0.7218212915552445,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "cd7f0656e062ae74fe4251c7cdedcb59212741966a2a19196c64a18aca8fc1fd",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 45,
+        "text": "1.5 Achieving Macroeconomic Goals\n5. How does the government use monetary policy and fiscal policy to achieve its macroeconomic goals?",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2209,
+          "start_char": 2075,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 134,
+          "page_normalized_char_count": 3059,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 45
+        },
+        "distance": 0.27874016761779785,
+        "score": 0.7212598323822021,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q17",
+    "strategy": "C",
+    "split": "test",
+    "question": "Theo phần chính sách tài khóa, chính phủ có thể điều chỉnh thuế và chi tiêu theo những hướng nào để kích thích nền kinh tế?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 47,
+        "evidence_quote": "The other economic tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "cd89e9ad819ee58fc8eeb2e52d4703a7f0c7882f508830c915c0c8b77a609aa3",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 47,
+        "text": "(Credit: Federalreserve/ flickr/ US Government Works)\nFiscal Policy\nThe other economic tool used by the government is fiscal policy, its program of taxation and spending. By\ncutting taxes or by increasing spending, the government can stimulate the economy. Look again at Exhibit\n1.6. The more government buys from businesses, the greater the business revenues and output. Likewise, if\nconsumers or businesses have to pay less in taxes, they will have more income to spend for goods and\nservices.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 859,
+          "start_char": 364,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 495,
+          "page_normalized_char_count": 1994,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 47
+        },
+        "distance": 0.2528901696205139,
+        "score": 0.7471098303794861,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "152f8d7faa2d900f8a32445bba88c8ffdb01e82190b4600da052b986ad944268",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "Through the policies it sets, such as taxes\nand interest rate levels, a government attempts to stimulate or curtail the level of economic activity. In\naddition, the forces of supply and demand determine how prices and quantities of goods and services behave\nin a free market.\n18 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 1832,
+          "start_char": 1420,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 412,
+          "page_normalized_char_count": 1832,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 30
+        },
+        "distance": 0.27817870844475545,
+        "score": 0.7218212915552445,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "cd7f0656e062ae74fe4251c7cdedcb59212741966a2a19196c64a18aca8fc1fd",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 45,
+        "text": "1.5 Achieving Macroeconomic Goals\n5. How does the government use monetary policy and fiscal policy to achieve its macroeconomic goals?",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2209,
+          "start_char": 2075,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 134,
+          "page_normalized_char_count": 3059,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 45
+        },
+        "distance": 0.27874016761779785,
+        "score": 0.7212598323822021,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q18",
+    "strategy": "A",
+    "split": "test",
+    "question": "Khi nào xảy ra thâm hụt ngân sách liên bang và nếu không cân đối được ngân sách thì chính phủ phải bù phần thiếu bằng cách nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 48,
+        "evidence_quote": "If the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household)."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "c930b8c9af8c5d57880319166d0ff88244fb4024cb2f25f3d099bdcd1fbf2637",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "ng is crowding out private spending.\nIf the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household).\nIn 1998, for the first time in a generation, there was a federal budget su",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1400,
+          "start_char": 900,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.22437316179275513,
+        "score": 0.7756268382072449,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "1a40875b486d052e6f4c7cdd11b5285309f5be891eadf06c270908c0b5e7e059",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 49,
+        "text": "licy?\n2. What fiscal policy tools can the government use to achieve its macroeconomic goals?\n3. What problems can a large national debt present?\nChapter 1 Understanding Economic Systems and Business 37",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 2674,
+          "start_char": 2473,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 201,
+          "page_normalized_char_count": 2674,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 49
+        },
+        "distance": 0.32048044563771594,
+        "score": 0.6795195543622841,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "21f26faf24b30b5759b753e06549bc56616a6a9bca336b54e7235a3cefeff905",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "Exhibit 1.9 Revenues and Expenses for the Federal Budget Source: U.S. Treasury, “Final Monthly Treasury Statement of Receipts and\nOutlays of the United States Government for Fiscal Year 2016,” https://www.fiscal.treasury.gov, accessed May 23, 2017.\nWhereas fiscal policy has a major impact on business and consumers, continual increases in government\nspending raises another important issue. When government takes more money from business and consumers\n(the private sector), a phenomenon known as cro",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 500,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.325689713615791,
+        "score": 0.674310286384209,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q18",
+    "strategy": "B",
+    "split": "test",
+    "question": "Khi nào xảy ra thâm hụt ngân sách liên bang và nếu không cân đối được ngân sách thì chính phủ phải bù phần thiếu bằng cách nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 48,
+        "evidence_quote": "If the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household)."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "3fa193c8898d802a94be08822587e955b188320f6e077d8e198c7543bdb02aaf",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "If the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household).",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1325,
+          "start_char": 937,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 388,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.22013992071151733,
+        "score": 0.7798600792884827,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "60ad5180659c3e67aa9a58c6f912677f3a2c2fec990f977eb31aa39e6946fa5e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "The accumulated total of these past deficits is the national debt, which\nnow amounts to about $19.8 trillion, or about $61,072 for every man, woman, and child in the United States.\nTotal interest on the debt is more than $2.5 trillion a year.26 To cover the deficit, the U.S. government borrows\nmoney from people and businesses in the form of Treasury bills, Treasury notes, and Treasury bonds. These\nare federal IOUs that pay interest to their owners.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2260,
+          "start_char": 1808,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 452,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.3318735957145691,
+        "score": 0.6681264042854309,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "dafee99bcccd016b5aae7931373ab8c3a8e2ebfe2de571c402bc027d82b0d203",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "In 1998, for the first time in a generation, there was a federal budget surplus (revenue exceeding spending) of\nabout $71 billion. That budget surplus was short lived, however. By 2005, the deficit was more than $318\nbillion. In the fiscal year of 2009, the federal deficit was at an all-time high of more than $1.413 trillion. Six\nyears later, at the end of the 2015 fiscal year, the deficit decreased to $438 billion.25 The U.S. government has\nrun budget deficits for many years.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1807,
+          "start_char": 1326,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 481,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.33532971143722534,
+        "score": 0.6646702885627747,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q18",
+    "strategy": "C",
+    "split": "test",
+    "question": "Khi nào xảy ra thâm hụt ngân sách liên bang và nếu không cân đối được ngân sách thì chính phủ phải bù phần thiếu bằng cách nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 48,
+        "evidence_quote": "If the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household)."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "3fa193c8898d802a94be08822587e955b188320f6e077d8e198c7543bdb02aaf",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "If the government spends more for programs (social services, education, defense) than it collects in taxes, the\nresult is a federal budget deficit. To balance the budget, the government can cut its spending, increase taxes,\nor do some combination of the two. When it cannot balance the budget, the government must make up any\nshortfalls by borrowing (just like any business or household).",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1325,
+          "start_char": 937,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 388,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.22013992071151733,
+        "score": 0.7798600792884827,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "60ad5180659c3e67aa9a58c6f912677f3a2c2fec990f977eb31aa39e6946fa5e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "The accumulated total of these past deficits is the national debt, which\nnow amounts to about $19.8 trillion, or about $61,072 for every man, woman, and child in the United States.\nTotal interest on the debt is more than $2.5 trillion a year.26 To cover the deficit, the U.S. government borrows\nmoney from people and businesses in the form of Treasury bills, Treasury notes, and Treasury bonds. These\nare federal IOUs that pay interest to their owners.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 2260,
+          "start_char": 1808,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 452,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.3318735957145691,
+        "score": 0.6681264042854309,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "dafee99bcccd016b5aae7931373ab8c3a8e2ebfe2de571c402bc027d82b0d203",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 48,
+        "text": "In 1998, for the first time in a generation, there was a federal budget surplus (revenue exceeding spending) of\nabout $71 billion. That budget surplus was short lived, however. By 2005, the deficit was more than $318\nbillion. In the fiscal year of 2009, the federal deficit was at an all-time high of more than $1.413 trillion. Six\nyears later, at the end of the 2015 fiscal year, the deficit decreased to $438 billion.25 The U.S. government has\nrun budget deficits for many years.",
+        "metadata": {
+          "section": "1.5",
+          "end_char": 1807,
+          "start_char": 1326,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 481,
+          "page_normalized_char_count": 2983,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 48
+        },
+        "distance": 0.33532971143722534,
+        "score": 0.6646702885627747,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q19",
+    "strategy": "A",
+    "split": "test",
+    "question": "Cấu trúc thị trường nào có một doanh nghiệp duy nhất chiếm toàn bộ doanh số của ngành đối với một hàng hóa hoặc dịch vụ?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 56,
+        "evidence_quote": "At the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "37e70af921f076c10d5cc5ed450908109b72590293adfb3e4aa0e5d3db584bae",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "national commodity exchanges at the current market price.\nPure Monopoly\nAt the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry. This market structure is characterized\nby barriers to entry—factors that prevent new firms from competing equally with the existing firm. Often the\nbarriers are technological or legal conditions. Polaroid, for example, held major patents on",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1849,
+          "start_char": 1351,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 498,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.24284221189273536,
+        "score": 0.7571577881072646,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "5be869d07da2126f4c6fe6a87f7e0f4fada31111ae53a07324c04ad44989d6a7",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "cable television\nRetail specialty\nclothing stores\nSteel,\nautomobiles,\nairlines, aircraft\nmanufacturers\nTable 1.3\nIn a perfectly competitive market, firms sell their products at prices determined solely by forces beyond their\ncontrol. Because the products are very similar and each firm contributes only a small amount to the total\nquantity supplied by the industry, price is determined by supply and demand. A firm that raised its price even a\nlittle above the going rate would lose customers. In th",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 950,
+          "start_char": 451,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.28212714195251465,
+        "score": 0.7178728580474854,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "d128164fd07791f179e8fa9ea624159028c28ae9b0b269e6cf5f423eef65275e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 35,
+        "text": "es but\ngovernment\ncontrol of some\nenterprises. The\nprivate sector is\ntypically large\nControl of\nMarkets\nComplete\nfreedom of\ntrade. No or\nlittle\ngovernment\ncontrol.\nComplete\ngovernment\ncontrol of\nmarkets.\nSome markets are\ncontrolled, and some are\nfree. Significant central-\ngovernment planning.\nState enterprises are\nmanaged by bureaucrats.\nThese enterprises are\nrarely profitable.\nSome markets,\nsuch as nuclear\nenergy and the\npost office, are\ncontrolled or\nhighly\nregulated.\nWorker\nIncentives\nStrong",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 949,
+          "start_char": 450,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 1778,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 35
+        },
+        "distance": 0.30846198696350713,
+        "score": 0.6915380130364929,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q19",
+    "strategy": "B",
+    "split": "test",
+    "question": "Cấu trúc thị trường nào có một doanh nghiệp duy nhất chiếm toàn bộ doanh số của ngành đối với một hàng hóa hoặc dịch vụ?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 56,
+        "evidence_quote": "At the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "b63456c5ddaa155e63a6c265e6e7c33df7844c9139f61832c46b11768bd8926d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "Pure Monopoly\nAt the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry. This market structure is characterized\nby barriers to entry—factors that prevent new firms from competing equally with the existing firm. Often the\nbarriers are technological or legal conditions. Polaroid, for example, held major patents on instant\nphotography for years.",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1880,
+          "start_char": 1409,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 471,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.24330328444818816,
+        "score": 0.7566967155518118,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "f684b11d5d27698319d67318c1923ddb792d4d4e21a468e33483f69c5557078e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "stores\nSteel,\nautomobiles,\nairlines, aircraft\nmanufacturers\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 563,
+          "start_char": 494,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 69,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.28408269381030116,
+        "score": 0.7159173061896988,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "add5c1e5bb480c22313f2ca7d1b112728e5da734f58fa6b0cafed1970fa8d4eb",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "Comparison of Market Structures\nCharacteristics Perfect\nCompetition\nPure Monopoly Monopolistic\nCompetition\nOligopoly\nNumber of\nfirms in\nmarket\nMany One Many, but fewer\nthan perfect\ncompetition\nFew\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1489,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 206,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2979483426840088,
+        "score": 0.7020516573159912,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q19",
+    "strategy": "C",
+    "split": "test",
+    "question": "Cấu trúc thị trường nào có một doanh nghiệp duy nhất chiếm toàn bộ doanh số của ngành đối với một hàng hóa hoặc dịch vụ?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 56,
+        "evidence_quote": "At the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "b63456c5ddaa155e63a6c265e6e7c33df7844c9139f61832c46b11768bd8926d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "Pure Monopoly\nAt the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry. This market structure is characterized\nby barriers to entry—factors that prevent new firms from competing equally with the existing firm. Often the\nbarriers are technological or legal conditions. Polaroid, for example, held major patents on instant\nphotography for years.",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1880,
+          "start_char": 1409,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 471,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.24330328444818816,
+        "score": 0.7566967155518118,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "f684b11d5d27698319d67318c1923ddb792d4d4e21a468e33483f69c5557078e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "stores\nSteel,\nautomobiles,\nairlines, aircraft\nmanufacturers\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 563,
+          "start_char": 494,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 69,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.28408269381030116,
+        "score": 0.7159173061896988,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "add5c1e5bb480c22313f2ca7d1b112728e5da734f58fa6b0cafed1970fa8d4eb",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "Comparison of Market Structures\nCharacteristics Perfect\nCompetition\nPure Monopoly Monopolistic\nCompetition\nOligopoly\nNumber of\nfirms in\nmarket\nMany One Many, but fewer\nthan perfect\ncompetition\nFew\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1489,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 206,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2979483426840088,
+        "score": 0.7020516573159912,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q20",
+    "strategy": "A",
+    "split": "test",
+    "question": "Trong mục 1.7, hai đặc điểm xác định thị trường độc quyền nhóm là gì?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 57,
+        "evidence_quote": "An oligopoly has two characteristics:\n• A few firms produce most or all of the output.\n• Large capital requirements or other factors limit the number of firms."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.7"
+    },
+    "hits": [
+      {
+        "chunk_id": "0fa3879a93e0e87a6aedf9076de47ad999e5188116bc9fd817140db398d81719",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "1.7 Competing in a Free Market\n7. What are the four types of market structure?\nOne of the characteristics of a free-market system is that suppliers have the right to compete with one\nanother. The number of suppliers in a market defines the market structure. Economists identify four types of\nmarket structures: (1) perfect competition, (2) pure monopoly, (3) monopolistic competition, and (4) oligopoly.\nTable 1.3 summarizes the characteristics of each of these market structures.\nPerfect Competition",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 883,
+          "start_char": 383,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.24936029322620712,
+        "score": 0.7506397067737929,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "35c4df35f191cad43916f4d333f3ff7d0c9fc3a793dd39e054af28eae9581b44",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "ch of these market structures.\nPerfect Competition\nCharacteristics of perfect (pure) competition include:\n• A large number of small firms are in the market.\n• The firms sell similar products; that is, each firm’s product is very much like the products sold by other\nfirms in the market.\n• Buyers and sellers in the market have good information about prices, sources of supply, and so on.\n• It is easy to open a new business or close an existing one.\nComparison of Market Structures\nCharacteristics Pe",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1333,
+          "start_char": 833,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2859181378508141,
+        "score": 0.7140818621491859,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "37e70af921f076c10d5cc5ed450908109b72590293adfb3e4aa0e5d3db584bae",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 56,
+        "text": "national commodity exchanges at the current market price.\nPure Monopoly\nAt the other end of the spectrum is pure monopoly, the market structure in which a single firm accounts for\nall industry sales of a particular good or service. The firm is the industry. This market structure is characterized\nby barriers to entry—factors that prevent new firms from competing equally with the existing firm. Often the\nbarriers are technological or legal conditions. Polaroid, for example, held major patents on",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1849,
+          "start_char": 1351,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 498,
+          "page_normalized_char_count": 2318,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 56
+        },
+        "distance": 0.29042285680770374,
+        "score": 0.7095771431922963,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q20",
+    "strategy": "B",
+    "split": "test",
+    "question": "Trong mục 1.7, hai đặc điểm xác định thị trường độc quyền nhóm là gì?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 57,
+        "evidence_quote": "An oligopoly has two characteristics:\n• A few firms produce most or all of the output.\n• Large capital requirements or other factors limit the number of firms."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.7"
+    },
+    "hits": [
+      {
+        "chunk_id": "cda6eea9d0a03b15a14fc4a6f70e6a015e9722e08fe9e7dc7b043baa16e59bf5",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "1.7 Competing in a Free Market\n7. What are the four types of market structure?\nOne of the characteristics of a free-market system is that suppliers have the right to compete with one\nanother. The number of suppliers in a market defines the market structure. Economists identify four types of\nmarket structures: (1) perfect competition, (2) pure monopoly, (3) monopolistic competition, and (4) oligopoly.\nTable 1.3 summarizes the characteristics of each of these market structures.",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 863,
+          "start_char": 383,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 480,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2480340452173908,
+        "score": 0.7519659547826092,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "22a7e1895197a19ade366078daf1719474a79b08c1b1cc717a0638bc9c6c6a6d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "Chapter 1 Understanding Economic Systems and Business 27",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 2753,
+          "start_char": 2697,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 56,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.2963080052962297,
+        "score": 0.7036919947037703,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "add5c1e5bb480c22313f2ca7d1b112728e5da734f58fa6b0cafed1970fa8d4eb",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "Comparison of Market Structures\nCharacteristics Perfect\nCompetition\nPure Monopoly Monopolistic\nCompetition\nOligopoly\nNumber of\nfirms in\nmarket\nMany One Many, but fewer\nthan perfect\ncompetition\nFew\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1489,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 206,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2974480632009431,
+        "score": 0.7025519367990569,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q20",
+    "strategy": "C",
+    "split": "test",
+    "question": "Trong mục 1.7, hai đặc điểm xác định thị trường độc quyền nhóm là gì?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 57,
+        "evidence_quote": "An oligopoly has two characteristics:\n• A few firms produce most or all of the output.\n• Large capital requirements or other factors limit the number of firms."
+      }
+    ],
+    "requested_filter": {
+      "section": "1.7"
+    },
+    "hits": [
+      {
+        "chunk_id": "cda6eea9d0a03b15a14fc4a6f70e6a015e9722e08fe9e7dc7b043baa16e59bf5",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "1.7 Competing in a Free Market\n7. What are the four types of market structure?\nOne of the characteristics of a free-market system is that suppliers have the right to compete with one\nanother. The number of suppliers in a market defines the market structure. Economists identify four types of\nmarket structures: (1) perfect competition, (2) pure monopoly, (3) monopolistic competition, and (4) oligopoly.\nTable 1.3 summarizes the characteristics of each of these market structures.",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 863,
+          "start_char": 383,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 480,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2480340452173908,
+        "score": 0.7519659547826092,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "add5c1e5bb480c22313f2ca7d1b112728e5da734f58fa6b0cafed1970fa8d4eb",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 55,
+        "text": "Comparison of Market Structures\nCharacteristics Perfect\nCompetition\nPure Monopoly Monopolistic\nCompetition\nOligopoly\nNumber of\nfirms in\nmarket\nMany One Many, but fewer\nthan perfect\ncompetition\nFew\nTable 1.3",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 1489,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 206,
+          "page_normalized_char_count": 1882,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 55
+        },
+        "distance": 0.2974480632009431,
+        "score": 0.7025519367990569,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "e44a88e9a90e784a73c88f36360c07df06306edb2f051946c7cba8261e5bbe6a",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 57,
+        "text": "Under monopolistic competition, firms take advantage of product differentiation. Industries where\nmonopolistic competition occurs include clothing, food, and similar consumer products. Firms under\nmonopolistic competition have more control over pricing than do firms under perfect competition because\nconsumers do not view the products as perfect substitutes. Nevertheless, firms must demonstrate product\ndifferences to justify their prices to customers.",
+        "metadata": {
+          "section": "1.7",
+          "end_char": 944,
+          "start_char": 490,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 454,
+          "page_normalized_char_count": 2895,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 57
+        },
+        "distance": 0.2983185889341129,
+        "score": 0.7016814110658871,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q21",
+    "strategy": "A",
+    "split": "test",
+    "question": "Theo tài liệu, chỉ tiêu nào mô tả lượng hàng hóa và dịch vụ mà một người lao động có thể tạo ra?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 33,
+        "evidence_quote": "Productivity is the amount of goods and services one worker can\nproduce."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "7deedfa689d6d1aa1f834a834544dd7c2cdf267da5da4bd216e89c02866d3584",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 41,
+        "text": "lky Way candy bars a day, but\nbecause of a recession Mars can sell only half a million candy bars a day. The plant uses large, expensive\nmachines. Producing Milky Ways at 50 percent capacity does not efficiently utilize Mars’s investment in its\nplant and equipment.\nKeeping People on the Job\nAnother macroeconomic goal is full employment, or having jobs for all who want to and can work. Full\nemployment doesn’t actually mean 100 percent employment. Some people choose not to work for personal\nreason",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 3200,
+          "start_char": 2700,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3766,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 41
+        },
+        "distance": 0.29068324836144555,
+        "score": 0.7093167516385545,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "99a69c97d0832f16cd3676f5d34777caf96cf25efe9feee0e3491bdba861b338",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "hedule driven for a good part of the year.\nMaking a commitment to help workers achieve a healthy work-life balance not only helps its employees,\nbut it also helps H&R Block retain workers in a tight labor market where individuals continue to have\n20 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 3533,
+          "start_char": 3150,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 383,
+          "page_normalized_char_count": 3533,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 32
+        },
+        "distance": 0.2921925994100364,
+        "score": 0.7078074005899636,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "16c4de22c9cb69515db09b4ffc57406af163ee8483cd85f17994a75b4b61a972",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 33,
+        "text": "automate repetitive tasks that free up workers to focus on more knowledge-based\ntasks critical to business operations.15",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 1470,
+          "start_char": 1350,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 120,
+          "page_normalized_char_count": 2796,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 33
+        },
+        "distance": 0.2929101375612655,
+        "score": 0.7070898624387345,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q21",
+    "strategy": "B",
+    "split": "test",
+    "question": "Theo tài liệu, chỉ tiêu nào mô tả lượng hàng hóa và dịch vụ mà một người lao động có thể tạo ra?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 33,
+        "evidence_quote": "Productivity is the amount of goods and services one worker can\nproduce."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "f47bf076db5b992ce4e9898614e2f24b61e1f45d687ce476cd33ca8266f8668e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 38,
+        "text": "Based on their economic expectations,\nbusinesses decide what products to produce, how to price them, how many people to employ, how much to\n26 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 3845,
+          "start_char": 3569,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 276,
+          "page_normalized_char_count": 3845,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 38
+        },
+        "distance": 0.28302194824749094,
+        "score": 0.7169780517525091,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "8f286f614a2fce58d820b876a6c3d21cb4a2762328bc1c7310f121ccbe340f67",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 52,
+        "text": "At that point, there is\na balance between the quantity consumers will buy and the quantity suppliers will make available.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 857,
+          "start_char": 736,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 121,
+          "page_normalized_char_count": 2196,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 52
+        },
+        "distance": 0.2909834769661267,
+        "score": 0.7090165230338733,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "f8977426b0388d4db6039b462228bb8fe0afe9e1de994205d62be88d14ce0d56",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "Making a commitment to help workers achieve a healthy work-life balance not only helps its employees,\nbut it also helps H&R Block retain workers in a tight labor market where individuals continue to have\n20 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 3533,
+          "start_char": 3193,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 340,
+          "page_normalized_char_count": 3533,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 32
+        },
+        "distance": 0.29890481528356094,
+        "score": 0.7010951847164391,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q21",
+    "strategy": "C",
+    "split": "test",
+    "question": "Theo tài liệu, chỉ tiêu nào mô tả lượng hàng hóa và dịch vụ mà một người lao động có thể tạo ra?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 33,
+        "evidence_quote": "Productivity is the amount of goods and services one worker can\nproduce."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "f47bf076db5b992ce4e9898614e2f24b61e1f45d687ce476cd33ca8266f8668e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 38,
+        "text": "Based on their economic expectations,\nbusinesses decide what products to produce, how to price them, how many people to employ, how much to\n26 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 3845,
+          "start_char": 3569,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 276,
+          "page_normalized_char_count": 3845,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 38
+        },
+        "distance": 0.28302194824749094,
+        "score": 0.7169780517525091,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "8f286f614a2fce58d820b876a6c3d21cb4a2762328bc1c7310f121ccbe340f67",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 52,
+        "text": "At that point, there is\na balance between the quantity consumers will buy and the quantity suppliers will make available.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 857,
+          "start_char": 736,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 121,
+          "page_normalized_char_count": 2196,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 52
+        },
+        "distance": 0.2909834769661267,
+        "score": 0.7090165230338733,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "f8977426b0388d4db6039b462228bb8fe0afe9e1de994205d62be88d14ce0d56",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "Making a commitment to help workers achieve a healthy work-life balance not only helps its employees,\nbut it also helps H&R Block retain workers in a tight labor market where individuals continue to have\n20 Chapter 1 Understanding Economic Systems and Business\nThis OpenStax book is available for free at http://cnx.org/content/col25734/1.7",
+        "metadata": {
+          "section": "1.2",
+          "end_char": 3533,
+          "start_char": 3193,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 340,
+          "page_normalized_char_count": 3533,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 32
+        },
+        "distance": 0.29890481528356094,
+        "score": 0.7010951847164391,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q22",
+    "strategy": "A",
+    "split": "test",
+    "question": "Kinh tế học vĩ mô và kinh tế học vi mô khác nhau thế nào về phạm vi nghiên cứu?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 39,
+        "evidence_quote": "Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "04fd7c2acccac565a77d994ba56292c99e51f784e1648d6271844145a25a9799",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "pay these employees, how much to expand the business, and so on.\nEconomics has two main subareas. Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms.\nBoth macroeconomics and microeconomics offer a valuable outlook on the economy. For example, Ford might\nuse both to decide whether to introduce a",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 500,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.2697085577423227,
+        "score": 0.7302914422576773,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "750b9c6689d9f03327aa8bfc259a4fc6874c3c20e3467bc165f3a819bdb06247",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "rd might\nuse both to decide whether to introduce a new line of vehicles. The company would consider such\nmacroeconomic factors as the national level of personal income, the unemployment rate, interest rates, fuel\ncosts, and the national level of sales of new vehicles. From a microeconomic viewpoint, Ford would judge\nconsumer demand for new vehicles versus the existing supply, competing models, labor and material costs\nand availability, and current prices and sales incentives.\nEconomics as a Circ",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 950,
+          "start_char": 450,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.3072990591943813,
+        "score": 0.6927009408056187,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "999592d03a899f559f31ea6b92ee81325de806aa31c12cbdd4d1532049e520c0",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 40,
+        "text": "in\ngovernment policies affect households and businesses is a good place to begin our study of economics.\nLet’s look first at macroeconomic goals and how they can be met. The United States and most other countries\nhave three main macroeconomic goals: economic growth, full employment, and price stability. A nation’s\neconomic well-being depends on carefully defining these goals and choosing the best economic policies for\nachieving them.\nCONCEPT CHECK\n1. What is economics, and how can you benefit f",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 1067,
+          "start_char": 568,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 1452,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 40
+        },
+        "distance": 0.3156311919908993,
+        "score": 0.6843688080091007,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q22",
+    "strategy": "B",
+    "split": "test",
+    "question": "Kinh tế học vĩ mô và kinh tế học vi mô khác nhau thế nào về phạm vi nghiên cứu?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 39,
+        "evidence_quote": "Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "7c9970dbdc426f14d2dedae6be83c53f80d6842975e32e2e8b5c52c6915863d4",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "pay these employees, how much to expand the business, and so on.\nEconomics has two main subareas. Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms.",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 354,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 354,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.25313928685912046,
+        "score": 0.7468607131408795,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "fb2294252443b919b72327d9962e65569abf7e6e9730af8d8794504760daf921",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "Both macroeconomics and microeconomics offer a valuable outlook on the economy. For example, Ford might\nuse both to decide whether to introduce a new line of vehicles. The company would consider such\nmacroeconomic factors as the national level of personal income, the unemployment rate, interest rates, fuel\ncosts, and the national level of sales of new vehicles.",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 718,
+          "start_char": 355,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 363,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.28874649737040425,
+        "score": 0.7112535026295957,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "009011eb007a9bdd4088522aaa0121830454b4ad04e6507ad78cf9fafc060cc5",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 49,
+        "text": "Now let’s shift our focus from the whole economy to microeconomics, the study of households, businesses, and\nindustries. This field of economics is concerned with how prices and quantities of goods and services behave in\na free market. It stands to reason that people, firms, and governments try to get the most from their limited\nresources. Consumers want to buy the best quality at the lowest price. Businesses want to keep costs down\nand revenues high to earn larger profits.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 1761,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 478,
+          "page_normalized_char_count": 2674,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 49
+        },
+        "distance": 0.29423628483794295,
+        "score": 0.705763715162057,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q22",
+    "strategy": "C",
+    "split": "test",
+    "question": "Kinh tế học vĩ mô và kinh tế học vi mô khác nhau thế nào về phạm vi nghiên cứu?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 39,
+        "evidence_quote": "Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "7c9970dbdc426f14d2dedae6be83c53f80d6842975e32e2e8b5c52c6915863d4",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "pay these employees, how much to expand the business, and so on.\nEconomics has two main subareas. Macroeconomics is the study of the economy as a whole. It looks at\naggregate data for large groups of people, companies, or products considered as a whole. In contrast,\nmicroeconomics focuses on individual parts of the economy, such as households or firms.",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 354,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 354,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.25313928685912046,
+        "score": 0.7468607131408795,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "fb2294252443b919b72327d9962e65569abf7e6e9730af8d8794504760daf921",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 39,
+        "text": "Both macroeconomics and microeconomics offer a valuable outlook on the economy. For example, Ford might\nuse both to decide whether to introduce a new line of vehicles. The company would consider such\nmacroeconomic factors as the national level of personal income, the unemployment rate, interest rates, fuel\ncosts, and the national level of sales of new vehicles.",
+        "metadata": {
+          "section": "1.3",
+          "end_char": 718,
+          "start_char": 355,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 363,
+          "page_normalized_char_count": 2753,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 39
+        },
+        "distance": 0.28874649737040425,
+        "score": 0.7112535026295957,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "009011eb007a9bdd4088522aaa0121830454b4ad04e6507ad78cf9fafc060cc5",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 49,
+        "text": "Now let’s shift our focus from the whole economy to microeconomics, the study of households, businesses, and\nindustries. This field of economics is concerned with how prices and quantities of goods and services behave in\na free market. It stands to reason that people, firms, and governments try to get the most from their limited\nresources. Consumers want to buy the best quality at the lowest price. Businesses want to keep costs down\nand revenues high to earn larger profits.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 1761,
+          "start_char": 1283,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 478,
+          "page_normalized_char_count": 2674,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 49
+        },
+        "distance": 0.29423628483794295,
+        "score": 0.705763715162057,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q23",
+    "strategy": "A",
+    "split": "test",
+    "question": "Khi có việc làm nhưng kỹ năng của người lao động không phù hợp với yêu cầu công việc trong ngành hoặc khu vực, đó là dạng thất nghiệp nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 42,
+        "evidence_quote": "Structural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "8b86c67c44442e91fa1d5a5e6bcc874d79c41e2b3105b51d48ee8b8fa1a9922f",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "or a region. For example, if\nthe birthrate declines, fewer teachers will be needed. Or the available workers in an area may lack the skills\nthat employers want. Retraining and skill-building programs are often required to reduce structural\nunemployment.\nCyclical unemployment, as the name implies, occurs when a downturn in the business cycle reduces the\ndemand for labor throughout the economy. In a long recession, cyclical unemployment is widespread, and\neven people with good job skills can’t fin",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 2300,
+          "start_char": 1800,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.24109888076781683,
+        "score": 0.7589011192321832,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "e555aa4db1cce841b7f483c07d6c9120e4c6a96cc21f4d205800d58846b4c5b6",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "includes\npeople who are unemployed while waiting to start a better job, those who are reentering the job market, and\nthose entering for the first time, such as new college graduates. This type of unemployment is always present\nand has little impact on the economy.\nStructural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region. For example, if\nthe birthrate decline",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 1850,
+          "start_char": 1350,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.27971103433239053,
+        "score": 0.7202889656676095,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "8911d59dc67bc11032ec507d73726077888bff22ae2d3d7349c07858a0be5e1b",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 41,
+        "text": "Some people choose not to work for personal\nreasons (attending school, raising children) or are temporarily unemployed while they wait to start a new job.\nThus, the government defines full employment as the situation when about 94 to 96 percent of those available\nto work actually have jobs. During the 2007–2009 recession in the United States, the unemployment rate\npeaked at 10 percent in October 2009. Today, that rate hovers at about 4 percent.19\nMaintaining low unemployment levels is of concern",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 3650,
+          "start_char": 3150,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3766,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 41
+        },
+        "distance": 0.28904752200558526,
+        "score": 0.7109524779944147,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q23",
+    "strategy": "B",
+    "split": "test",
+    "question": "Khi có việc làm nhưng kỹ năng của người lao động không phù hợp với yêu cầu công việc trong ngành hoặc khu vực, đó là dạng thất nghiệp nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 42,
+        "evidence_quote": "Structural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "ece9a6c4179b26b7c0c6081e13ab6382998a60e3794aa05c8b8e17cd33efb76f",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Structural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region. For example, if\nthe birthrate declines, fewer teachers will be needed. Or the available workers in an area may lack the skills\nthat employers want. Retraining and skill-building programs are often required to reduce structural\nunemployment.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 2053,
+          "start_char": 1615,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 438,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.229186149932605,
+        "score": 0.770813850067395,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "9762eba5118adbdde70dbb29dd063867bab87ac7713908456c2508ddc5f917da",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Cyclical unemployment, as the name implies, occurs when a downturn in the business cycle reduces the\ndemand for labor throughout the economy. In a long recession, cyclical unemployment is widespread, and\neven people with good job skills can’t find jobs. The government can partly counteract cyclical unemployment\nwith programs that boost the economy.\nIn the past, cyclical unemployment affected mainly less-skilled workers and those in heavy manufacturing.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 2510,
+          "start_char": 2054,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 456,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.2794493699730194,
+        "score": 0.7205506300269806,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "4883b789906391b62384f6f5203e1a612dd41bcabacc699086a2f7cb4a7e5ce7",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Frictional unemployment is short-term unemployment that is not related to the business cycle. It includes\npeople who are unemployed while waiting to start a better job, those who are reentering the job market, and\nthose entering for the first time, such as new college graduates. This type of unemployment is always present\nand has little impact on the economy.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 1614,
+          "start_char": 1253,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 361,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.29114372292571133,
+        "score": 0.7088562770742887,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q23",
+    "strategy": "C",
+    "split": "test",
+    "question": "Khi có việc làm nhưng kỹ năng của người lao động không phù hợp với yêu cầu công việc trong ngành hoặc khu vực, đó là dạng thất nghiệp nào?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 42,
+        "evidence_quote": "Structural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "ece9a6c4179b26b7c0c6081e13ab6382998a60e3794aa05c8b8e17cd33efb76f",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Structural unemployment is also unrelated to the business cycle but is involuntary. It is caused by a\nmismatch between available jobs and the skills of available workers in an industry or a region. For example, if\nthe birthrate declines, fewer teachers will be needed. Or the available workers in an area may lack the skills\nthat employers want. Retraining and skill-building programs are often required to reduce structural\nunemployment.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 2053,
+          "start_char": 1615,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 438,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.229186149932605,
+        "score": 0.770813850067395,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "9762eba5118adbdde70dbb29dd063867bab87ac7713908456c2508ddc5f917da",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Cyclical unemployment, as the name implies, occurs when a downturn in the business cycle reduces the\ndemand for labor throughout the economy. In a long recession, cyclical unemployment is widespread, and\neven people with good job skills can’t find jobs. The government can partly counteract cyclical unemployment\nwith programs that boost the economy.\nIn the past, cyclical unemployment affected mainly less-skilled workers and those in heavy manufacturing.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 2510,
+          "start_char": 2054,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 456,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.2794493699730194,
+        "score": 0.7205506300269806,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "4883b789906391b62384f6f5203e1a612dd41bcabacc699086a2f7cb4a7e5ce7",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 42,
+        "text": "Frictional unemployment is short-term unemployment that is not related to the business cycle. It includes\npeople who are unemployed while waiting to start a better job, those who are reentering the job market, and\nthose entering for the first time, such as new college graduates. This type of unemployment is always present\nand has little impact on the economy.",
+        "metadata": {
+          "section": "1.4",
+          "end_char": 1614,
+          "start_char": 1253,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 361,
+          "page_normalized_char_count": 3833,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 42
+        },
+        "distance": 0.29114372292571133,
+        "score": 0.7088562770742887,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q24",
+    "strategy": "A",
+    "split": "test",
+    "question": "Trong ví dụ áo khoác, người mua có thể thay đổi thời điểm mua thế nào nếu dự đoán giá tương lai sẽ tăng mạnh hoặc sẽ giảm?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 53,
+        "evidence_quote": "Another factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "112a82018daab5255de63fe873caf143fbb9ab17df340e22bbfccbb6f9b75974",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "also influence demand. For example, if the average price of a snowboard rises to $1,000, people will quit\nsnowboarding, and jacket demand will fall.\nAnother factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase. Finally, changes in the number of buyers will affect demand. Snowboarding is a\nyoung person’s spor",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 950,
+          "start_char": 450,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.23194901752775665,
+        "score": 0.7680509824722433,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "26fff71afb805d365f9f9924191a6558d4b43e3ecb2c99bfa196333afa274f5d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "every price. The reverse is also true. Changes in the prices of other goods can also\naffect supply.\nLet’s say that snow skiing becomes a really hot sport again. The number of skiers jumps dramatically, and the\nprice of ski jackets soars. North Face can use its machines and fabrics to produce either ski or snowboard\njackets. If the company can make more profit from ski jackets, it will produce fewer snowboard jackets at every\nprice. Also, a change in the number of producers will shift the supply",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 2300,
+          "start_char": 1801,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.2633976936340332,
+        "score": 0.7366023063659668,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "78fef16a70150e3c66163661a87ac613a2b51987eeaf641713fb43a6a0dfcec4",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 50,
+        "text": "ls, people will want\nto buy more jackets. Some people who were not going to buy a jacket will purchase one at the lower price.\nAlso, some snowboarders who already have a jacket will buy a second one. The graph also shows that if you\nput a large number of jackets on the market, you will have to reduce the price to sell all of them.\nUnderstanding demand is critical to businesses. Demand tells you how much you can sell and at what price—in\nother words, how much money the firm will take in that can",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 1849,
+          "start_char": 1350,
+          "text_empty": false,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          },
+          "normalized_char_count": 499,
+          "page_normalized_char_count": 2140,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 50
+        },
+        "distance": 0.2719721794128418,
+        "score": 0.7280278205871582,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q24",
+    "strategy": "B",
+    "split": "test",
+    "question": "Trong ví dụ áo khoác, người mua có thể thay đổi thời điểm mua thế nào nếu dự đoán giá tương lai sẽ tăng mạnh hoặc sẽ giảm?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 53,
+        "evidence_quote": "Another factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "2c9f71553327bd9b3b6dfcfa56bdea26f5c875381e807625a569e6bc5c1dc93d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "Another factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase. Finally, changes in the number of buyers will affect demand. Snowboarding is a\nyoung person’s sport, and the number of teenagers will increase in the next few years. Therefore, the demand\nfor snowboard jackets should increase.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 1078,
+          "start_char": 599,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 479,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.21451759338378906,
+        "score": 0.7854824066162109,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "25ff1356e61b9948a94b95768344b9244183c154c9664de30dd1f0e30d0162c3",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "For example, if the average price of a snowboard rises to $1,000, people will quit\nsnowboarding, and jacket demand will fall.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 598,
+          "start_char": 473,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 125,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.22324209074723045,
+        "score": 0.7767579092527696,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "6def7f306e3462ac1a42fbb23ab7d965785cbf9f60ba959c678570b84022124f",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "Changes in Demand\nA number of things can increase or decrease demand. For example, if snowboarders’ incomes go up, they may\ndecide to buy a second jacket. If incomes fall, a snowboarder who was planning to purchase a jacket may wear\nan old one instead. Changes in fashion or tastes can also influence demand. If snowboarding were suddenly to\ngo out of fashion, demand for jackets would decrease quickly. A change in the price of related products can\nalso influence demand.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 472,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 472,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.2694537318403989,
+        "score": 0.7305462681596011,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  },
+  {
+    "question_id": "q24",
+    "strategy": "C",
+    "split": "test",
+    "question": "Trong ví dụ áo khoác, người mua có thể thay đổi thời điểm mua thế nào nếu dự đoán giá tương lai sẽ tăng mạnh hoặc sẽ giảm?",
+    "gold": [
+      {
+        "gold_source_id": "openstax_business_2018",
+        "gold_page": 53,
+        "evidence_quote": "Another factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase."
+      }
+    ],
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "2c9f71553327bd9b3b6dfcfa56bdea26f5c875381e807625a569e6bc5c1dc93d",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "Another factor that can shift demand is expectations about future prices. If you expect jacket prices to increase\nsignificantly in the future, you may decide to go ahead and get one today. If you think prices will fall, you will\npostpone your purchase. Finally, changes in the number of buyers will affect demand. Snowboarding is a\nyoung person’s sport, and the number of teenagers will increase in the next few years. Therefore, the demand\nfor snowboard jackets should increase.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 1078,
+          "start_char": 599,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 479,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.21451759338378906,
+        "score": 0.7854824066162109,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "25ff1356e61b9948a94b95768344b9244183c154c9664de30dd1f0e30d0162c3",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "For example, if the average price of a snowboard rises to $1,000, people will quit\nsnowboarding, and jacket demand will fall.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 598,
+          "start_char": 473,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 125,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.22324209074723045,
+        "score": 0.7767579092527696,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      },
+      {
+        "chunk_id": "6def7f306e3462ac1a42fbb23ab7d965785cbf9f60ba959c678570b84022124f",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 53,
+        "text": "Changes in Demand\nA number of things can increase or decrease demand. For example, if snowboarders’ incomes go up, they may\ndecide to buy a second jacket. If incomes fall, a snowboarder who was planning to purchase a jacket may wear\nan old one instead. Changes in fashion or tastes can also influence demand. If snowboarding were suddenly to\ngo out of fashion, demand for jackets would decrease quickly. A change in the price of related products can\nalso influence demand.",
+        "metadata": {
+          "section": "1.6",
+          "end_char": 472,
+          "start_char": 0,
+          "text_empty": false,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          },
+          "normalized_char_count": 472,
+          "page_normalized_char_count": 2935,
+          "document_id": "openstax_business_2018",
+          "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+          "page": 53
+        },
+        "distance": 0.2694537318403989,
+        "score": 0.7305462681596011,
+        "metadata_complete_and_correct": null,
+        "metadata_audit_reason": null
+      }
+    ],
+    "grounding_score_0_to_2": null,
+    "grounding_reason": null,
+    "equivalent_evidence_review": null
+  }
+]

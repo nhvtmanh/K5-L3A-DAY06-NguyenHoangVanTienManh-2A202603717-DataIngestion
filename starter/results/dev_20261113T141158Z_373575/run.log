@@ -1,0 +1,36 @@
+INFO Loading SentenceTransformer model from google/embeddinggemma-2.
+INFO Loaded 20 prompts with these keys: ['query', 'document', 'BitextMining', 'Classification', 'Clustering', 'CodeRetrieval', 'Document', 'FactChecking', 'InstructionRetrieval', 'MultilabelClassification', 'PairClassification', 'QuestionAnswering', 'Reranking', 'Retrieval', 'Retrieval-document', 'Retrieval-query', 'STS', 'SearchQuery', 'SentenceSimilarity', 'Summarization']
+INFO Strategy A: 192 chunks
+INFO Embedded document chunks 8/192
+INFO Embedded document chunks 48/192
+INFO Embedded document chunks 88/192
+INFO Embedded document chunks 128/192
+INFO Embedded document chunks 168/192
+INFO Embedded document chunks 192/192
+INFO Strategy B: 220 chunks
+INFO Embedded document chunks 8/220
+INFO Embedded document chunks 48/220
+INFO Embedded document chunks 88/220
+INFO Embedded document chunks 128/220
+INFO Embedded document chunks 168/220
+INFO Embedded document chunks 208/220
+INFO Embedded document chunks 220/220
+INFO Retrieved q01 (dev)
+INFO Retrieved q02 (dev)
+INFO Retrieved q03 (dev)
+INFO Retrieved q04 (dev)
+INFO Retrieved q05 (dev)
+INFO Retrieved q06 (dev)
+INFO Retrieved q07 (dev)
+INFO Retrieved q08 (dev)
+INFO Retrieved q09 (dev)
+INFO Retrieved q10 (dev)
+INFO Retrieved q11 (dev)
+INFO Retrieved q12 (dev)
+INFO Retrieved q13 (dev)
+INFO Retrieved q14 (dev)
+INFO Retrieved q15 (dev)
+INFO A dev: Hit@1 5/15; Evidence Hit@3 12/15
+INFO B dev: Hit@1 10/15; Evidence Hit@3 12/15
+INFO C dev: Hit@1 11/15; Evidence Hit@3 12/15
+INFO Finished; results: D:\Codespace\K5-L3A-DAY06-NguyenHoangVanTienManh-2A202603717-DataIngestion\starter\results\dev_20261113T141158Z_373575

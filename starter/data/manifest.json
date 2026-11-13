@@ -1,0 +1,224 @@
+{
+  "documents": [
+    {
+      "source_id": "openstax_business_2018",
+      "title": "Introduction to Business",
+      "source_path_or_url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+      "local_path": "starter/data/IntroductionToBusiness.pdf",
+      "local_path_base": "repository_root",
+      "license_or_permission": "CC BY 4.0 for textbook content produced by OpenStax, as stated on PDF page 4. Retain attribution when redistributing excerpts; third-party material and trademarks may have separate terms.",
+      "license_pdf_page": 4,
+      "attribution": "Introduction to Business, OpenStax, Rice University, 2018. Download for free at https://openstax.org/details/books/Introduction-Business.",
+      "accessed_at": "2026-11-13",
+      "accessed_at_note": "Date the local source PDF was inspected for this manifest; not an inferred effective date.",
+      "version": "IB-2018-000(09/18)-BKB",
+      "snapshot": {
+        "sha256": "46e718b187bad53055f60c74cc919acc411840c8531ef6033d6f21a7f1ba56b5",
+        "file_size_bytes": 55198256
+      },
+      "physical_page_count": 744,
+      "page_numbering": "pdf_page is the 1-based physical page in the original PDF; printed_page is the page number printed in the book.",
+      "selected_page_range": {
+        "start": 28,
+        "end": 57,
+        "inclusive": true
+      },
+      "selected_page_count": 30,
+      "counting_rule": "Count original PDF pages 28-57 (printed pages 16-45): instructional text, examples, and tables/figures with accompanying text. Exclude all other pages, including cover, contents, preface, blank pages, and reference-only pages. Count each selected physical page once.",
+      "character_count_method": {
+        "extractor": "pypdf 6.21.4, PdfReader.pages[index].extract_text()",
+        "normalization": "Unicode NFC; CRLF/CR to LF; collapse horizontal whitespace to one space within each line; strip each line; collapse three or more newlines to two; strip page boundaries.",
+        "unit": "Python len(normalized_text), including internal spaces and newlines.",
+        "scope": "All extracted page text, including headings, running headers/footers, captions, and tables. Image pixels are not counted. No OCR or manual character repair applied."
+      },
+      "total_normalized_char_count": 79640,
+      "extraction_notes": {
+        "empty_selected_pages": [],
+        "pages_with_unicode_replacement_character": [],
+        "note": "Some extracted characters are U+FFFD. Verify evidence against the rendered PDF and review punctuation/encoding before finalizing the benchmark. Recompute counts if normalization or text repair changes."
+      },
+      "pages": [
+        {
+          "page_id": "openstax_business_2018_p028",
+          "pdf_page": 28,
+          "printed_page": 16,
+          "normalized_char_count": 3860
+        },
+        {
+          "page_id": "openstax_business_2018_p029",
+          "pdf_page": 29,
+          "printed_page": 17,
+          "normalized_char_count": 2407
+        },
+        {
+          "page_id": "openstax_business_2018_p030",
+          "pdf_page": 30,
+          "printed_page": 18,
+          "normalized_char_count": 1832
+        },
+        {
+          "page_id": "openstax_business_2018_p031",
+          "pdf_page": 31,
+          "printed_page": 19,
+          "normalized_char_count": 4072
+        },
+        {
+          "page_id": "openstax_business_2018_p032",
+          "pdf_page": 32,
+          "printed_page": 20,
+          "normalized_char_count": 3533
+        },
+        {
+          "page_id": "openstax_business_2018_p033",
+          "pdf_page": 33,
+          "printed_page": 21,
+          "normalized_char_count": 2796
+        },
+        {
+          "page_id": "openstax_business_2018_p034",
+          "pdf_page": 34,
+          "printed_page": 22,
+          "normalized_char_count": 2601
+        },
+        {
+          "page_id": "openstax_business_2018_p035",
+          "pdf_page": 35,
+          "printed_page": 23,
+          "normalized_char_count": 1778
+        },
+        {
+          "page_id": "openstax_business_2018_p036",
+          "pdf_page": 36,
+          "printed_page": 24,
+          "normalized_char_count": 2596
+        },
+        {
+          "page_id": "openstax_business_2018_p037",
+          "pdf_page": 37,
+          "printed_page": 25,
+          "normalized_char_count": 2549
+        },
+        {
+          "page_id": "openstax_business_2018_p038",
+          "pdf_page": 38,
+          "printed_page": 26,
+          "normalized_char_count": 3845
+        },
+        {
+          "page_id": "openstax_business_2018_p039",
+          "pdf_page": 39,
+          "printed_page": 27,
+          "normalized_char_count": 2753
+        },
+        {
+          "page_id": "openstax_business_2018_p040",
+          "pdf_page": 40,
+          "printed_page": 28,
+          "normalized_char_count": 1452
+        },
+        {
+          "page_id": "openstax_business_2018_p041",
+          "pdf_page": 41,
+          "printed_page": 29,
+          "normalized_char_count": 3766
+        },
+        {
+          "page_id": "openstax_business_2018_p042",
+          "pdf_page": 42,
+          "printed_page": 30,
+          "normalized_char_count": 3833
+        },
+        {
+          "page_id": "openstax_business_2018_p043",
+          "pdf_page": 43,
+          "printed_page": 31,
+          "normalized_char_count": 2114
+        },
+        {
+          "page_id": "openstax_business_2018_p044",
+          "pdf_page": 44,
+          "printed_page": 32,
+          "normalized_char_count": 2226
+        },
+        {
+          "page_id": "openstax_business_2018_p045",
+          "pdf_page": 45,
+          "printed_page": 33,
+          "normalized_char_count": 3059
+        },
+        {
+          "page_id": "openstax_business_2018_p046",
+          "pdf_page": 46,
+          "printed_page": 34,
+          "normalized_char_count": 2986
+        },
+        {
+          "page_id": "openstax_business_2018_p047",
+          "pdf_page": 47,
+          "printed_page": 35,
+          "normalized_char_count": 1994
+        },
+        {
+          "page_id": "openstax_business_2018_p048",
+          "pdf_page": 48,
+          "printed_page": 36,
+          "normalized_char_count": 2983
+        },
+        {
+          "page_id": "openstax_business_2018_p049",
+          "pdf_page": 49,
+          "printed_page": 37,
+          "normalized_char_count": 2674
+        },
+        {
+          "page_id": "openstax_business_2018_p050",
+          "pdf_page": 50,
+          "printed_page": 38,
+          "normalized_char_count": 2140
+        },
+        {
+          "page_id": "openstax_business_2018_p051",
+          "pdf_page": 51,
+          "printed_page": 39,
+          "normalized_char_count": 1257
+        },
+        {
+          "page_id": "openstax_business_2018_p052",
+          "pdf_page": 52,
+          "printed_page": 40,
+          "normalized_char_count": 2196
+        },
+        {
+          "page_id": "openstax_business_2018_p053",
+          "pdf_page": 53,
+          "printed_page": 41,
+          "normalized_char_count": 2935
+        },
+        {
+          "page_id": "openstax_business_2018_p054",
+          "pdf_page": 54,
+          "printed_page": 42,
+          "normalized_char_count": 2308
+        },
+        {
+          "page_id": "openstax_business_2018_p055",
+          "pdf_page": 55,
+          "printed_page": 43,
+          "normalized_char_count": 1882
+        },
+        {
+          "page_id": "openstax_business_2018_p056",
+          "pdf_page": 56,
+          "printed_page": 44,
+          "normalized_char_count": 2318
+        },
+        {
+          "page_id": "openstax_business_2018_p057",
+          "pdf_page": 57,
+          "printed_page": 45,
+          "normalized_char_count": 2895
+        }
+      ]
+    }
+  ]
+}

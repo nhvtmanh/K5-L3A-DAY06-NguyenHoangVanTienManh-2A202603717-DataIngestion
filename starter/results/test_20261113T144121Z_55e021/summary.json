@@ -1,0 +1,69 @@
+{
+  "metrics": [
+    {
+      "strategy": "A",
+      "split": "test",
+      "question_count": 9,
+      "hit_at_1": {
+        "numerator": 4,
+        "denominator": 9,
+        "rate": 0.4444444444444444
+      },
+      "evidence_hit_at_3": {
+        "numerator": 5,
+        "denominator": 9,
+        "rate": 0.5555555555555556
+      },
+      "filter_compliance": {
+        "numerator": 2,
+        "denominator": 2,
+        "rate": 1.0,
+        "method": "nonempty_top3_all_match_requested_filter; independent_of_applied_filter"
+      }
+    },
+    {
+      "strategy": "B",
+      "split": "test",
+      "question_count": 9,
+      "hit_at_1": {
+        "numerator": 7,
+        "denominator": 9,
+        "rate": 0.7777777777777778
+      },
+      "evidence_hit_at_3": {
+        "numerator": 7,
+        "denominator": 9,
+        "rate": 0.7777777777777778
+      },
+      "filter_compliance": {
+        "numerator": 1,
+        "denominator": 2,
+        "rate": 0.5,
+        "method": "nonempty_top3_all_match_requested_filter; independent_of_applied_filter"
+      }
+    },
+    {
+      "strategy": "C",
+      "split": "test",
+      "question_count": 9,
+      "hit_at_1": {
+        "numerator": 7,
+        "denominator": 9,
+        "rate": 0.7777777777777778
+      },
+      "evidence_hit_at_3": {
+        "numerator": 7,
+        "denominator": 9,
+        "rate": 0.7777777777777778
+      },
+      "filter_compliance": {
+        "numerator": 2,
+        "denominator": 2,
+        "rate": 1.0,
+        "method": "nonempty_top3_all_match_requested_filter; independent_of_applied_filter"
+      }
+    }
+  ],
+  "manual_assessment_complete": false,
+  "limitations": "Literal evidence matching is conservative; review equivalent evidence. No automatic coherence, grounding, or metadata correctness scores."
+}

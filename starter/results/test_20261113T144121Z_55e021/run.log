@@ -1,0 +1,17 @@
+INFO Loading SentenceTransformer model from google/embeddinggemma-2.
+INFO Loaded 20 prompts with these keys: ['query', 'document', 'BitextMining', 'Classification', 'Clustering', 'CodeRetrieval', 'Document', 'FactChecking', 'InstructionRetrieval', 'MultilabelClassification', 'PairClassification', 'QuestionAnswering', 'Reranking', 'Retrieval', 'Retrieval-document', 'Retrieval-query', 'STS', 'SearchQuery', 'SentenceSimilarity', 'Summarization']
+INFO Strategy A: 192 chunks
+INFO Strategy B: 220 chunks
+INFO Retrieved q16 (test)
+INFO Retrieved q17 (test)
+INFO Retrieved q18 (test)
+INFO Retrieved q19 (test)
+INFO Retrieved q20 (test)
+INFO Retrieved q21 (test)
+INFO Retrieved q22 (test)
+INFO Retrieved q23 (test)
+INFO Retrieved q24 (test)
+INFO A test: Hit@1 4/9; Evidence Hit@3 5/9
+INFO B test: Hit@1 7/9; Evidence Hit@3 7/9
+INFO C test: Hit@1 7/9; Evidence Hit@3 7/9
+INFO Finished; results: D:\Codespace\K5-L3A-DAY06-NguyenHoangVanTienManh-2A202603717-DataIngestion\starter\results\test_20261113T144121Z_55e021

@@ -1,0 +1,36 @@
+{
+  "format_version": 1,
+  "implementation_sha256": "7b00f74369ae1fc29aee8158856bfefdf57d27979e4bd11761bc87c4a0bc96d9",
+  "chunking": {
+    "size": 500,
+    "overlap": 50,
+    "paragraph_max_size": 500
+  },
+  "initial_sections": {
+    "openstax_business_2018": "1.1"
+  },
+  "inputs": {
+    "manifest_sha256": "0982f39201b813c80f6ce8c7709788e5ab6dd59576c1173a09bbdd8bf7951f3a",
+    "benchmark_sha256": "96323e80c5e7bd6607f5d10fb3bc02e977f401170b3a4ed0afaedb7b24641728"
+  },
+  "model": {
+    "name": "google/embeddinggemma-2",
+    "dimensions": 768,
+    "document_prompt": "Document",
+    "query_prompt": "SearchQuery",
+    "normalize_embeddings": true,
+    "dtype": "float32",
+    "revision": "f9972ac22e696a105c482202646979e33e4b5a1e"
+  },
+  "selection_criteria": "dev Evidence Hit@3, then dev Hit@1, then fewer chunks",
+  "storage": {
+    "table": "public.ingestion_chunks",
+    "strategies": {
+      "A": "f6f3263802f0fc81431f_A",
+      "B": "f6f3263802f0fc81431f_B"
+    },
+    "C_reuses": "B",
+    "search": "exact_cosine",
+    "top_k": 3
+  }
+}

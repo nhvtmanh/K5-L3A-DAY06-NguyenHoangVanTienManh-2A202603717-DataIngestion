@@ -1,0 +1,882 @@
+[
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 28,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "3c5009f58c732182096a665233c89a687ab799e96a5cfa34c24d4778601eae69",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 28,
+        "text": "A number of outstanding managers and noted academics are beginning to emphasize a fifth factor of\nproduction—knowledge. Knowledge refers to the combined talents and skills of the workforce and has\nbecome a primary driver of economic growth. Today’s competitive environment places a premium on\nknowledge and learning over physical resources. Recent statistics suggest that the number of U.S. knowledge\nworkers has doubled over the last 30 years, with an estimated 2 million knowledge job openings annu",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3860,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 28,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "6a12dbd1b3c736c029fa4fe94e4b73e7fa5261c6a246831e89cfa6562b817171",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 28,
+        "text": "A number of outstanding managers and noted academics are beginning to emphasize a fifth factor of\nproduction—knowledge. Knowledge refers to the combined talents and skills of the workforce and has\nbecome a primary driver of economic growth. Today’s competitive environment places a premium on\nknowledge and learning over physical resources. Recent statistics suggest that the number of U.S.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 390,
+          "page_normalized_char_count": 3860,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 390,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 28,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "6a12dbd1b3c736c029fa4fe94e4b73e7fa5261c6a246831e89cfa6562b817171",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 28,
+        "text": "A number of outstanding managers and noted academics are beginning to emphasize a fifth factor of\nproduction—knowledge. Knowledge refers to the combined talents and skills of the workforce and has\nbecome a primary driver of economic growth. Today’s competitive environment places a premium on\nknowledge and learning over physical resources. Recent statistics suggest that the number of U.S.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 390,
+          "page_normalized_char_count": 3860,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 390,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 29,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "ac3c14d8ab18408e7d06895511be5faedb88246093bef766fe41a1a15c4942ef",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 29,
+        "text": "cognitive skills.6",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 18,
+          "page_normalized_char_count": 2407,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 18,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 29,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "878ee46270b501e6d9b07d1d295a1a3f2d083934a9b728ff7ebe86bf7f5da7e1",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 29,
+        "text": "cognitive skills.6",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 18,
+          "page_normalized_char_count": 2407,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 18,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 29,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "878ee46270b501e6d9b07d1d295a1a3f2d083934a9b728ff7ebe86bf7f5da7e1",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 29,
+        "text": "cognitive skills.6",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 18,
+          "page_normalized_char_count": 2407,
+          "section": "1.1",
+          "start_char": 0,
+          "end_char": 18,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 30,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "22dc418b07bc1964575e9e2c1b8bbb96b5b55742f85e5a039b30ff48be751b46",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "Exhibit 1.4 The Dynamic Business Environment (Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)\nNo one business is large or powerful enough to create major changes in the external environment. Thus,\nmanagers are primarily adapters to, rather than agents of, change. Global competition is basically an\nuncontrollable element in the external environment. In some situations, however, a firm can influence external\nevents through its strategies. For example, major U.S. pharmace",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 1832,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 30,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "ba3a047138d1b94138b5caab60262e6cc09ff9f060ff6505ae52a7d582905615",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "Exhibit 1.4 The Dynamic Business Environment (Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)\nNo one business is large or powerful enough to create major changes in the external environment. Thus,\nmanagers are primarily adapters to, rather than agents of, change. Global competition is basically an\nuncontrollable element in the external environment. In some situations, however, a firm can influence external\nevents through its strategies. For example, major U.S.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 491,
+          "page_normalized_char_count": 1832,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 491,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 30,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "ba3a047138d1b94138b5caab60262e6cc09ff9f060ff6505ae52a7d582905615",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 30,
+        "text": "Exhibit 1.4 The Dynamic Business Environment (Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)\nNo one business is large or powerful enough to create major changes in the external environment. Thus,\nmanagers are primarily adapters to, rather than agents of, change. Global competition is basically an\nuncontrollable element in the external environment. In some situations, however, a firm can influence external\nevents through its strategies. For example, major U.S.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 491,
+          "page_normalized_char_count": 1832,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 491,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 31,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "f41ecfd8ab5a5c48a556a18ae0fa330ad67a50be515425057de46be20ca707f1",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 31,
+        "text": "Political and Legal Influences\nThe political climate of a country is another critical factor for managers to consider in day-to-day business\noperations. The amount of government activity, the types of laws it passes, and the general political stability of\na government are three components of political climate. For example, a multinational company such as\nGeneral Electric will evaluate the political climate of a country before deciding to locate a plant there. Is the\ngovernment stable, or might a",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 4072,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 31,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "3a776a4681079574c6d046bb43f91f672fcb8e0339eee2f802b3109f06f19201",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 31,
+        "text": "Political and Legal Influences\nThe political climate of a country is another critical factor for managers to consider in day-to-day business\noperations. The amount of government activity, the types of laws it passes, and the general political stability of\na government are three components of political climate. For example, a multinational company such as\nGeneral Electric will evaluate the political climate of a country before deciding to locate a plant there.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 463,
+          "page_normalized_char_count": 4072,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 463,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 31,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "3a776a4681079574c6d046bb43f91f672fcb8e0339eee2f802b3109f06f19201",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 31,
+        "text": "Political and Legal Influences\nThe political climate of a country is another critical factor for managers to consider in day-to-day business\noperations. The amount of government activity, the types of laws it passes, and the general political stability of\na government are three components of political climate. For example, a multinational company such as\nGeneral Electric will evaluate the political climate of a country before deciding to locate a plant there.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 463,
+          "page_normalized_char_count": 4072,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 463,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 32,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "68eec6e0aa9dd2f367029c90020e50f6ea04c9e665156b73c7c2d432a8302698",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "projects the minority population to increase to 56 percent of the total U.S. population.14 Companies recognize\nthe value of hiring a diverse workforce that reflects our society. Minorities’ buying power has increased\nsignificantly as well, and companies are developing products and marketing campaigns that target different\nethnic groups.\nSocial Factors\nSocial factors—our attitudes, values, ethics, and lifestyles—influence what, how, where, and when people\npurchase products or services. They are d",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 3533,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 32,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "e4f63650132a01e630e101d5c7e8cd935348017ed79322064a417710732c566a",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "projects the minority population to increase to 56 percent of the total U.S. population.14 Companies recognize\nthe value of hiring a diverse workforce that reflects our society. Minorities’ buying power has increased\nsignificantly as well, and companies are developing products and marketing campaigns that target different\nethnic groups.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 338,
+          "page_normalized_char_count": 3533,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 338,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 32,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "e4f63650132a01e630e101d5c7e8cd935348017ed79322064a417710732c566a",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 32,
+        "text": "projects the minority population to increase to 56 percent of the total U.S. population.14 Companies recognize\nthe value of hiring a diverse workforce that reflects our society. Minorities’ buying power has increased\nsignificantly as well, and companies are developing products and marketing campaigns that target different\nethnic groups.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 338,
+          "page_normalized_char_count": 3533,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 338,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 33,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "ae2db75b8f71296a2f2c68a41d331b0d944e8e154b8508ba373814bce81d4e17",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 33,
+        "text": "Technology\nThe application of technology can stimulate growth under capitalism or any other economic system.\nTechnology is the application of science and engineering skills and knowledge to solve production and\norganizational problems. New equipment and software that improve productivity and reduce costs can be\namong a company’s most valuable assets. Productivity is the amount of goods and services one worker can\nproduce. Our ability as a nation to maintain and build wealth depends in large part",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2796,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 33,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "3e9e820a6e73d23ffe1d12441691f0f5025947848695a2fa041489b11967e648",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 33,
+        "text": "Technology\nThe application of technology can stimulate growth under capitalism or any other economic system.\nTechnology is the application of science and engineering skills and knowledge to solve production and\norganizational problems. New equipment and software that improve productivity and reduce costs can be\namong a company’s most valuable assets. Productivity is the amount of goods and services one worker can\nproduce.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 425,
+          "page_normalized_char_count": 2796,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 425,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 33,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "3e9e820a6e73d23ffe1d12441691f0f5025947848695a2fa041489b11967e648",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 33,
+        "text": "Technology\nThe application of technology can stimulate growth under capitalism or any other economic system.\nTechnology is the application of science and engineering skills and knowledge to solve production and\norganizational problems. New equipment and software that improve productivity and reduce costs can be\namong a company’s most valuable assets. Productivity is the amount of goods and services one worker can\nproduce.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 425,
+          "page_normalized_char_count": 2796,
+          "section": "1.2",
+          "start_char": 0,
+          "end_char": 425,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 34,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "4896306526525e93b6aa713ea0cbf0d6fe62ff4ae6315f8fbc8086238783e6a8",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 34,
+        "text": "A business’s success depends in part on the economic systems of the countries where it is located and where\nits sells its products. A nation’s economic system is the combination of policies, laws, and choices made by its\ngovernment to establish the systems that determine what goods and services are produced and how they are\nallocated. Economics is the study of how a society uses scarce resources to produce and distribute goods and\nservices. The resources of a person, a firm, or a nation are limi",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2601,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 34,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "5322c9b020a47286b4512ef85436479421a411922db4a3af366513d83e7c7532",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 34,
+        "text": "A business’s success depends in part on the economic systems of the countries where it is located and where\nits sells its products. A nation’s economic system is the combination of policies, laws, and choices made by its\ngovernment to establish the systems that determine what goods and services are produced and how they are\nallocated. Economics is the study of how a society uses scarce resources to produce and distribute goods and\nservices.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 444,
+          "page_normalized_char_count": 2601,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 444,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 34,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "5322c9b020a47286b4512ef85436479421a411922db4a3af366513d83e7c7532",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 34,
+        "text": "A business’s success depends in part on the economic systems of the countries where it is located and where\nits sells its products. A nation’s economic system is the combination of policies, laws, and choices made by its\ngovernment to establish the systems that determine what goods and services are produced and how they are\nallocated. Economics is the study of how a society uses scarce resources to produce and distribute goods and\nservices.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 444,
+          "page_normalized_char_count": 2601,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 444,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 35,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "efe87a03f0ea0f7bc5a59175b9c1baf7f9c3fcbbedff245fc6ad17c483e4ed1b",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 35,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nOwnership\nof Business\nBusinesses\nare privately\nowned with\nminimal\ngovernment\nownership\nor\ninterference.\nGovernment\nowns all or\nmost\nenterprises.\nBasic industries such as\nrailroads and utilities are\nowned by government.\nVery high taxation as\ngovernment redistributes\nincome from successful\nprivate businesses and\nentrepreneurs.\nPrivate\nownership of\nland and\nbusinesses but\ngovernment\ncontrol of some\nenterprises. The",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 1778,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 35,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "4ed31e2d38e4536fdfb7b8a35ab1b99bfea8da5ce9828f8b79157de2419f6d48",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 35,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nOwnership\nof Business\nBusinesses\nare privately\nowned with\nminimal\ngovernment\nownership\nor\ninterference.\nGovernment\nowns all or\nmost\nenterprises.\nBasic industries such as\nrailroads and utilities are\nowned by government.\nVery high taxation as\ngovernment redistributes\nincome from successful\nprivate businesses and\nentrepreneurs.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 411,
+          "page_normalized_char_count": 1778,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 411,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 35,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "4ed31e2d38e4536fdfb7b8a35ab1b99bfea8da5ce9828f8b79157de2419f6d48",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 35,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nOwnership\nof Business\nBusinesses\nare privately\nowned with\nminimal\ngovernment\nownership\nor\ninterference.\nGovernment\nowns all or\nmost\nenterprises.\nBasic industries such as\nrailroads and utilities are\nowned by government.\nVery high taxation as\ngovernment redistributes\nincome from successful\nprivate businesses and\nentrepreneurs.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 411,
+          "page_normalized_char_count": 1778,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 411,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 36,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "014315cf1b800c5d3a04733c929169f7eeb455823101ecd98321d3027455f90e",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 36,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nForecast for\n2020\nContinued\nsteady\ngrowth.\nNo growth and\nperhaps\ndisappearance.\nStable with probable\nslight growth.\nContinued\ngrowth.\nExamples United\nStates\nCuba, North\nKorea\nFinland, India, Israel Great Britain,\nFrance,\nSweden,\nCanada\nTable 1.1\nCapitalism\nIn recent years, more countries have shifted toward free-market economic systems and away from planned\neconomies. Sometimes, as was the case of the former Eas",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2596,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 36,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "9b79aa63af6e9db0b5824be05dc1083739d793a66aab93ba1ad6d7df4b500ac4",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 36,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nForecast for\n2020\nContinued\nsteady\ngrowth.\nNo growth and\nperhaps\ndisappearance.\nStable with probable\nslight growth.\nContinued\ngrowth.\nExamples United\nStates\nCuba, North\nKorea\nFinland, India, Israel Great Britain,\nFrance,\nSweden,\nCanada\nTable 1.1",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 330,
+          "page_normalized_char_count": 2596,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 330,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 36,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "9b79aa63af6e9db0b5824be05dc1083739d793a66aab93ba1ad6d7df4b500ac4",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 36,
+        "text": "The Basic Economic Systems of the World\nCapitalism Communism Socialism Mixed Economy\nForecast for\n2020\nContinued\nsteady\ngrowth.\nNo growth and\nperhaps\ndisappearance.\nStable with probable\nslight growth.\nContinued\ngrowth.\nExamples United\nStates\nCuba, North\nKorea\nFinland, India, Israel Great Britain,\nFrance,\nSweden,\nCanada\nTable 1.1",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 330,
+          "page_normalized_char_count": 2596,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 330,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "A",
+    "document_id": "openstax_business_2018",
+    "page": 37,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "0e6f2110501d9ab3df4622f9be10ee8ff2209c2433adc2dd8535e6b1bbf4bcff",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 37,
+        "text": "Exhibit 1.5 McDonald’s China Since joining the World Trade Organization in 2001, China has continued to embrace tenets of capitalism and\ngrow its economy. China is the world’s largest producer of mobile phones, PCs, and tablets, and the country’s over one billion people constitute\na gargantuan market. The explosion of McDonald’s and KFC franchises epitomizes the success of American-style capitalism in China, and\nBeijing’s bid to host the 2022 Winter Olympics is a symbol of economic openness. Thi",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 500,
+          "page_normalized_char_count": 2549,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 500,
+          "chunking_method": "fixed",
+          "chunking_parameters": {
+            "size": 500,
+            "overlap": 50
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "B",
+    "document_id": "openstax_business_2018",
+    "page": 37,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "0e5dafad4e3266f7428f4c2dd1b870eeff47c1730b9620757511106ec53d4333",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 37,
+        "text": "Exhibit 1.5 McDonald’s China Since joining the World Trade Organization in 2001, China has continued to embrace tenets of capitalism and\ngrow its economy. China is the world’s largest producer of mobile phones, PCs, and tablets, and the country’s over one billion people constitute\na gargantuan market. The explosion of McDonald’s and KFC franchises epitomizes the success of American-style capitalism in China, and\nBeijing’s bid to host the 2022 Winter Olympics is a symbol of economic openness.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 496,
+          "page_normalized_char_count": 2549,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 496,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  },
+  {
+    "strategy": "C",
+    "document_id": "openstax_business_2018",
+    "page": 37,
+    "anchor_char": 0,
+    "chunks_covering_anchor": [
+      {
+        "chunk_id": "0e5dafad4e3266f7428f4c2dd1b870eeff47c1730b9620757511106ec53d4333",
+        "document_id": "openstax_business_2018",
+        "source": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToBusiness-OP_8D04gAa.pdf",
+        "page": 37,
+        "text": "Exhibit 1.5 McDonald’s China Since joining the World Trade Organization in 2001, China has continued to embrace tenets of capitalism and\ngrow its economy. China is the world’s largest producer of mobile phones, PCs, and tablets, and the country’s over one billion people constitute\na gargantuan market. The explosion of McDonald’s and KFC franchises epitomizes the success of American-style capitalism in China, and\nBeijing’s bid to host the 2022 Winter Olympics is a symbol of economic openness.",
+        "metadata": {
+          "text_empty": false,
+          "normalized_char_count": 496,
+          "page_normalized_char_count": 2549,
+          "section": "1.3",
+          "start_char": 0,
+          "end_char": 496,
+          "chunking_method": "paragraph",
+          "chunking_parameters": {
+            "max_size": 500
+          }
+        }
+      }
+    ],
+    "coherence_score_0_to_2": null,
+    "reason": null
+  }
+]

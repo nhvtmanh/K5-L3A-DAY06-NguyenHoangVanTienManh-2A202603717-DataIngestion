@@ -1,0 +1,275 @@
+{
+  "status": "passed",
+  "pdf_sha256": "46e718b187bad53055f60c74cc919acc411840c8531ef6033d6f21a7f1ba56b5",
+  "questions_sha256": "96323e80c5e7bd6607f5d10fb3bc02e977f401170b3a4ed0afaedb7b24641728",
+  "extractor": "pypdf 6.21.4",
+  "question_count": 24,
+  "split_counts": {
+    "dev": 15,
+    "test": 9
+  },
+  "filter_counts": {
+    "dev": 4,
+    "test": 2
+  },
+  "type_counts": {
+    "truc_tiep": 8,
+    "dien_dat_lai": 6,
+    "dieu_kien_ngoai_le": 10
+  },
+  "selected_page_count": 30,
+  "verified_evidence_count": 25,
+  "limits": "Checks source identity, structure, page/section scope and exact evidence presence. Does not measure retrieval quality or prove semantic completeness of all gold alternatives. No embedding or retrieval run.",
+  "evidence_checks": [
+    {
+      "question_id": "q01",
+      "gold_kind": "primary",
+      "pdf_page": 28,
+      "section": "1.1",
+      "evidence_start_char": 0,
+      "evidence_end_char_exclusive": 188,
+      "evidence_char_count": 188,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q02",
+      "gold_kind": "primary",
+      "pdf_page": 29,
+      "section": "1.2",
+      "evidence_start_char": 342,
+      "evidence_end_char_exclusive": 603,
+      "evidence_char_count": 261,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q03",
+      "gold_kind": "primary",
+      "pdf_page": 31,
+      "section": "1.2",
+      "evidence_start_char": 153,
+      "evidence_end_char_exclusive": 311,
+      "evidence_char_count": 158,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q04",
+      "gold_kind": "primary",
+      "pdf_page": 33,
+      "section": "1.2",
+      "evidence_start_char": 1327,
+      "evidence_end_char_exclusive": 1468,
+      "evidence_char_count": 141,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q05",
+      "gold_kind": "primary",
+      "pdf_page": 34,
+      "section": "1.3",
+      "evidence_start_char": 337,
+      "evidence_end_char_exclusive": 444,
+      "evidence_char_count": 107,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q06",
+      "gold_kind": "primary",
+      "pdf_page": 36,
+      "section": "1.3",
+      "evidence_start_char": 1112,
+      "evidence_end_char_exclusive": 1280,
+      "evidence_char_count": 168,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q07",
+      "gold_kind": "primary",
+      "pdf_page": 38,
+      "section": "1.3",
+      "evidence_start_char": 2058,
+      "evidence_end_char_exclusive": 2181,
+      "evidence_char_count": 123,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q07",
+      "gold_kind": "alternative",
+      "pdf_page": 34,
+      "section": "1.3",
+      "evidence_start_char": 1609,
+      "evidence_end_char_exclusive": 1732,
+      "evidence_char_count": 123,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q08",
+      "gold_kind": "primary",
+      "pdf_page": 38,
+      "section": "1.3",
+      "evidence_start_char": 280,
+      "evidence_end_char_exclusive": 374,
+      "evidence_char_count": 94,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q09",
+      "gold_kind": "primary",
+      "pdf_page": 41,
+      "section": "1.4",
+      "evidence_start_char": 1823,
+      "evidence_end_char_exclusive": 1930,
+      "evidence_char_count": 107,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q10",
+      "gold_kind": "primary",
+      "pdf_page": 42,
+      "section": "1.4",
+      "evidence_start_char": 533,
+      "evidence_end_char_exclusive": 843,
+      "evidence_char_count": 310,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q11",
+      "gold_kind": "primary",
+      "pdf_page": 43,
+      "section": "1.4",
+      "evidence_start_char": 1014,
+      "evidence_end_char_exclusive": 1178,
+      "evidence_char_count": 164,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q12",
+      "gold_kind": "primary",
+      "pdf_page": 44,
+      "section": "1.4",
+      "evidence_start_char": 993,
+      "evidence_end_char_exclusive": 1165,
+      "evidence_char_count": 172,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q13",
+      "gold_kind": "primary",
+      "pdf_page": 50,
+      "section": "1.6",
+      "evidence_start_char": 618,
+      "evidence_end_char_exclusive": 782,
+      "evidence_char_count": 164,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q14",
+      "gold_kind": "primary",
+      "pdf_page": 53,
+      "section": "1.6",
+      "evidence_start_char": 1647,
+      "evidence_end_char_exclusive": 1813,
+      "evidence_char_count": 166,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q15",
+      "gold_kind": "primary",
+      "pdf_page": 52,
+      "section": "1.6",
+      "evidence_start_char": 966,
+      "evidence_end_char_exclusive": 1203,
+      "evidence_char_count": 237,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q16",
+      "gold_kind": "primary",
+      "pdf_page": 46,
+      "section": "1.5",
+      "evidence_start_char": 2207,
+      "evidence_end_char_exclusive": 2405,
+      "evidence_char_count": 198,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q17",
+      "gold_kind": "primary",
+      "pdf_page": 47,
+      "section": "1.5",
+      "evidence_start_char": 432,
+      "evidence_end_char_exclusive": 620,
+      "evidence_char_count": 188,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q18",
+      "gold_kind": "primary",
+      "pdf_page": 48,
+      "section": "1.5",
+      "evidence_start_char": 937,
+      "evidence_end_char_exclusive": 1325,
+      "evidence_char_count": 388,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q19",
+      "gold_kind": "primary",
+      "pdf_page": 56,
+      "section": "1.7",
+      "evidence_start_char": 1423,
+      "evidence_end_char_exclusive": 1608,
+      "evidence_char_count": 185,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q20",
+      "gold_kind": "primary",
+      "pdf_page": 57,
+      "section": "1.7",
+      "evidence_start_char": 1199,
+      "evidence_end_char_exclusive": 1358,
+      "evidence_char_count": 159,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q21",
+      "gold_kind": "primary",
+      "pdf_page": 33,
+      "section": "1.2",
+      "evidence_start_char": 353,
+      "evidence_end_char_exclusive": 425,
+      "evidence_char_count": 72,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q22",
+      "gold_kind": "primary",
+      "pdf_page": 39,
+      "section": "1.3",
+      "evidence_start_char": 98,
+      "evidence_end_char_exclusive": 354,
+      "evidence_char_count": 256,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q23",
+      "gold_kind": "primary",
+      "pdf_page": 42,
+      "section": "1.4",
+      "evidence_start_char": 1615,
+      "evidence_end_char_exclusive": 1812,
+      "evidence_char_count": 197,
+      "exact_normalized_substring": true
+    },
+    {
+      "question_id": "q24",
+      "gold_kind": "primary",
+      "pdf_page": 53,
+      "section": "1.6",
+      "evidence_start_char": 599,
+      "evidence_end_char_exclusive": 851,
+      "evidence_char_count": 252,
+      "exact_normalized_substring": true
+    }
+  ]
+}
