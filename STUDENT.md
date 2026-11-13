@@ -5,4 +5,4 @@
 - Lớp: L3A
 - Chủ đề và corpus: Truy xuất kiến thức về hệ thống kinh tế và môi trường kinh doanh từ sách Introduction to Business (OpenStax/Rice University, 2018); corpus gồm 30 trang PDF 28–57, tương ứng trang in 16–45.
 - Repo bài nộp: https://github.com/nhvtmanh/K5-L3A-DAY06-NguyenHoangVanTienManh-2A202603717-DataIngestion.git
-- Commit chốt bài: a7499392bf71fdc432af4e8c70256518aec844e7
+- Commit chốt bài: a1f6a06d842bb8ec35ab100595816578653839c1
